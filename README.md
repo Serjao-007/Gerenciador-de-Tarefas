@@ -52,5 +52,5 @@
 <hr>
 
 <p align="center">
-  Desenvolvido com 💻 e ☕ por <a href="https://github.com/seu-usuario">Seu Nome</a>
+  Desenvolvido por <a href="https://github.com/seu-usuario">Sergio</a>
 </p>
