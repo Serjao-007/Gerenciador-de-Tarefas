@@ -52,5 +52,5 @@
 <hr>
 
 <p align="center">
-  Desenvolvido por <a href="https://github.com/seu-usuario">Sergio</a>
+  Desenvolvido por <a href="https://github.com/Serjao-007">Sergio-devSystem</a>
 </p>
